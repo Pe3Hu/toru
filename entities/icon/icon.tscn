@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://6x3itquf3d2e"]
+
+[ext_resource type="Material" uid="uid://daswfxmni7qpd" path="res://entities/skill/materials/tactic.tres" id="1_4bqfi"]
+[ext_resource type="Texture2D" uid="uid://bmvc48csa046q" path="res://entities/skill/images/analysis.png" id="2_m2518"]
+
+[node name="Icon" type="TextureRect"]
+material = ExtResource("1_4bqfi")
+offset_right = 256.0
+offset_bottom = 256.0
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("2_m2518")

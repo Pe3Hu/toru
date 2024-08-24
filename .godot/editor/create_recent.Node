@@ -1,0 +1,15 @@
+Control
+Node2D
+TextureRect
+PanelContainer
+MeshInstance2D
+MeshInstance3D
+HBoxContainer
+GridContainer
+VBoxContainer
+Polygon2D
+TileMap
+AnimationPlayer
+AnimatedSprite2D
+Sprite2D
+CharacterBody2D

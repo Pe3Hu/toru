@@ -1,0 +1,26 @@
+res://entities/icon/icon.tscn
+res://shaders/gradient effects.gdshader
+res://shaders/triple sdiw.gdshader
+res://shaders/sphere.gdshader
+res://entities/skill/materials/tactic.tres
+res://entities/skill/materials/strategy.tres
+res://entities/skill/skill.tscn
+res://entities/skill/materials/analysis.tres
+res://entities/skill/materials/flexibility.tres
+res://entities/skill/materials/persistence.tres
+res://entities/skill/materials/intuition.tres
+res://entities/member/member.tscn
+res://entities/member/member.gd
+res://entities/squad/squad.tscn
+res://entities/world/world.tscn
+res://entities/totem/totem.tscn
+res://entities/dungeon/dungeon.tscn
+res://entities/planet/planet.tscn
+res://entities/totem/totem.gd
+res://entities/skill/skill.gd
+res://entities/squad/squad.gd
+res://entities/guild/guild_resource.gd
+res://entities/planet/planet_resource.gd
+res://entities/squad/squad_resource.gd
+res://entities/dungeon/dungeon.gd
+res://script/Global.gd
